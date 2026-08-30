@@ -3,7 +3,7 @@
 # ══════════════════════════════════════════════════════════════════════════════
 
 # 1) Your Bot Token (obtained from BotFather)
-BOT_TOKEN = '8724671399:AAFh1T8G-QqwtpI4A1MwMyc4h2uTiTpxrVU'
+BOT_TOKEN = '8724671399:AAE4EOUti-bhLkTfcqxHMv36NkkE7ZV2Mfg'
 
 # 2) Admin Telegram User ID (numeric ID of your Telegram account)
 PROTECTED_ADMIN_IDS = [7831629041]
@@ -22,8 +22,8 @@ SMS_HADI_SIGNIN_URL = f"{SMS_HADI_BASE}/signin"
 SMS_HADI_STATS_URL  = f"{SMS_HADI_BASE}/agent/SMSCDRStats"
 SMS_HADI_AJAX_URL   = f"{SMS_HADI_BASE}/agent/res/data_smscdr.php"
 
-SMS_HADI_USERNAME = ''
-SMS_HADI_PASSWORD = ''
+SMS_HADI_USERNAME = 'james99'
+SMS_HADI_PASSWORD = 'James99@'
 
 # ── Konekta Premium Panel ──────────────────────────────────────────────────────
 KONEKTA_BASE       = "https://konektapremium.net"
