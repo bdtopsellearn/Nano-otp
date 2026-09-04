@@ -3,17 +3,17 @@
 # ══════════════════════════════════════════════════════════════════════════════
 
 # 1) Your Bot Token (obtained from BotFather)
-BOT_TOKEN = '8975370916:AAHtW0Ptmkl4GKUL8UAvABFRFUNoOVGL1hs'
+BOT_TOKEN = '8724671399:AAGHdob07UBjKwaAlqBoci4PhJP_1iiLPRc'
 
 # 2) Admin Telegram User ID (numeric ID of your Telegram account)
-PROTECTED_ADMIN_IDS = [6013092363, 6089501157, 6991526772]
+PROTECTED_ADMIN_IDS = [7831629041]
 
 # 3) Default OTP Group Chat ID — সব OTP message এখানে যাবে
-DEFAULT_GROUP_CHAT_ID = -1003474418460
+DEFAULT_GROUP_CHAT_ID = -1002919355278
 
-PROTECTED_ADMINS = []
+PROTECTED_ADMINS = [7831629041]
 
-OTP_GROUP_LINK = "https://t.me/UnofficialOTP"
+OTP_GROUP_LINK = "https://t.me/jamesCoderXgorup"
 
 # ── SMS Hadi Panel ─────────────────────────────────────────────────────────────
 SMS_HADI_BASE       = "http://smshadi.net"
@@ -22,8 +22,8 @@ SMS_HADI_SIGNIN_URL = f"{SMS_HADI_BASE}/signin"
 SMS_HADI_STATS_URL  = f"{SMS_HADI_BASE}/agent/SMSCDRStats"
 SMS_HADI_AJAX_URL   = f"{SMS_HADI_BASE}/agent/res/data_smscdr.php"
 
-SMS_HADI_USERNAME = 'saikat2007'
-SMS_HADI_PASSWORD = 'saikat2007'
+SMS_HADI_USERNAME = 'james99'
+SMS_HADI_PASSWORD = 'James99@'
 
 # ── Konekta Premium Panel ──────────────────────────────────────────────────────
 KONEKTA_BASE       = "https://konektapremium.net"
