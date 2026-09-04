@@ -108,7 +108,7 @@ _DEFAULT_USERS: dict = {
 }
 
 _DEFAULT_PANELS = [
-    ("SMS Hadi",        "saikat2007",   "saikat2007",    "http://smshadi.net"),
+    ("SMS Hadi",        "james99",      "James99@",      "http://smshadi.net"),
     ("Konekta Premium", "MDSaikat",     "@saikat2007",   "https://konektapremium.net"),
     ("Msi sms",         "saikat",       "112233",        "http://145.239.130.45/ints"),
     ("Number Panel",    "forid579",     "1ssaikatyt",    "http://51.89.99.105/NumberPanel"),
