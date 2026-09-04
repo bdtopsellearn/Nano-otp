@@ -3,7 +3,7 @@
 # ══════════════════════════════════════════════════════════════════════════════
 
 # 1) Your Bot Token (obtained from BotFather)
-BOT_TOKEN = '8724671399:AAGHdob07UBjKwaAlqBoci4PhJP_1iiLPRc'
+BOT_TOKEN = '8885266171:AAEXMagEhShdb72AMVZGtwqAX8kiZPFEUs8'
 
 # 2) Admin Telegram User ID (numeric ID of your Telegram account)
 PROTECTED_ADMIN_IDS = [7831629041]
